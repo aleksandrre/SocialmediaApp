@@ -9,6 +9,7 @@
 ![App Screenshot](https://user-images.githubusercontent.com/108459639/233735406-b53953a9-07db-41ee-8aff-ddcfabdac52d.png)
 ## Built with
 - React
-- Styled Components
+- React-Router-Dom
+- Material Icons
 ## Authors
 - [Aleksandre chokheli](https://github.com/aleksandrre)
